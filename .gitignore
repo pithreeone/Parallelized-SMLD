@@ -12,3 +12,4 @@ graph_data
 preprocessing/*.csv
 preprocessing/*.txt
 preprocessing/*.data
+samples
